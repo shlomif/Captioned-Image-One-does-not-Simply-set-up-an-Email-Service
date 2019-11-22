@@ -1,11 +1,11 @@
-Captioned Image - Emma Watson doesn't need a wand to kick your ass
-==================================================================
+Captioned Image - "One does not simply cast an American actress for a Britishwoman role."
+=========================================================================================
 
 [id="preview"]
 Preview:
 --------
 
-image::./emma-watson-wandless.svg.webp[Emma Watson doesn't need a wand to kick your ass]
+image::./one-does-not-simply-cast-an-american-actress.svg.webp[One does not simply cast an American actress for a Britishwoman role.]
 
 [id="about"]
 About:
@@ -14,7 +14,7 @@ About:
 This repository contains the sources for a captioned image. To view or
 edit it type:
 
-    inkscape ./emma-watson-wandless.svg
+    inkscape ./one-does-not-simply-cast-an-american-actress.svg.webp
 
 To build everything use https://www.gnu.org/software/make/[GNU make] .
 
@@ -23,3 +23,9 @@ Creator:
 --------
 
 https://www.shlomifish.org/[Shlomi Fish].
+
+[id="credits"]
+Credits:
+--------
+
+Background image taken from https://knowyourmeme.com/memes/one-does-not-simply-walk-into-mordor[Know Your Meme] based on https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)[the LotR films]
