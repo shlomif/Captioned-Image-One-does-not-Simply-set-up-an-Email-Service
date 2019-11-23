@@ -1,4 +1,4 @@
-SVG = one-does-not-simply-cast-an-american-actress.svg
+SVG = one-does-not-simply-set-up-an-email-service.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 WEBP = $(SVG).webp
