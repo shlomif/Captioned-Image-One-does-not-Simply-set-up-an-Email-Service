@@ -1,11 +1,11 @@
-Captioned Image - "One does not simply cast an American actress for a Britishwoman role."
-=========================================================================================
+Captioned Image - "One does not simply set up an E-mail service"
+================================================================
 
 [id="preview"]
 Preview:
 --------
 
-image::./one-does-not-simply-cast-an-american-actress.svg.webp[One does not simply cast an American actress for a Britishwoman role.]
+image::./one-does-not-simply-set-up-an-email-service.svg.webp["One does not simply set up an E-mail service"]
 
 [id="about"]
 About:
@@ -14,7 +14,7 @@ About:
 This repository contains the sources for a captioned image. To view or
 edit it type:
 
-    inkscape ./one-does-not-simply-cast-an-american-actress.svg.webp
+    inkscape ./one-does-not-simply-set-up-an-email-service.svg
 
 To build everything use https://www.gnu.org/software/make/[GNU make] .
 
